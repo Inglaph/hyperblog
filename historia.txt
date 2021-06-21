@@ -1,0 +1,13 @@
+Hola soy luis, tengo 35 anos de Cali
+
+<<<<<<< HEAD
+Soy asesor industrial 
+
+estudiante Platzi 2021
+
+Tengo 3 hijos.
+
+vive en Cali
+=======
+manana nos enfocaremos en su historia personal
+>>>>>>> cabecera
